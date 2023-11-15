@@ -119,3 +119,5 @@ if __name__ == '__main__':
     # RUN
     score_game(predict_number_game_self)
     predict_number_game()
+
+print('-' * 40)
