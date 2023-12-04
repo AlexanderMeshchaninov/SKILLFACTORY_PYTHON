@@ -26,3 +26,5 @@
 * [Lesson-12 - "Решение задач на все темы выше. Решение заданий в google colab-6"](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-12)
 
 * [Lesson-13 - Игра "Угадай число"](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-13)
+
+* [Lesson-14 - Библиотеки: Collections / Numpy. Работа с Counter, Deque..., векторы, random, методы numpy...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-14)
