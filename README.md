@@ -28,3 +28,11 @@
 * [Lesson-13 - Игра "Угадай число"](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-13)
 
 * [Lesson-14 - Библиотеки: Collections / Numpy. Работа с Counter, Deque..., векторы, random, методы numpy...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-14)
+
+* [Lesson-15 - Библиотека Pandas: Введение в библиотеку, использование Series, DataFrame, работа с Notebook](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-15)
+
+* [Lesson-16 - Базовые приемы работы с pandas, признаки в табликах, математические операции...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-16)
+ 
+* [Lesson-17 - Продвинутые методы работы с pandas: sort_values, group_by, pivot_table, join, merge...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-17)
+   
+* [Lesson-18 - Визуализация данных: библиотеки plot, matplotlib, plotly, виды графиков, практические задания, работа с Notebook...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-18)
