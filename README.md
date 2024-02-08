@@ -36,3 +36,5 @@
 * [Lesson-17 - Продвинутые методы работы с pandas: sort_values, group_by, pivot_table, join, merge...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-17)
    
 * [Lesson-18 - Визуализация данных: библиотеки plot, matplotlib, plotly, виды графиков, практические задания, работа с Notebook...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-18)
+
+* [Lesson-19 - Очистка и предобработка: методы и поиск пропусков, замена пропусков другими значениями, поиск выбросов по методу Тьюки...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-19)
