@@ -1,0 +1,7 @@
+First str
+Second string
+Third string
+Last string!
+Second string
+Third string
+Last string!
