@@ -1,7 +1,7 @@
 # MY DATA SCIENCE AND PYTHON PROJECTS
 ## Projects list:
 
-<center><img src=https://github.com/AlexanderMeshchaninov/Screenshots/blob/main/data_science_learning.png width=600px height= 200px></center>
+<center><img src=https://github.com/AlexanderMeshchaninov/Screenshots/blob/main/data_science_learning.png width=600px height= 400px></center>
 
 * [Lesson-1 - "Пример кода на python (начало)"](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-1);
 
