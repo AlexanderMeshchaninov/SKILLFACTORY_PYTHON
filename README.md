@@ -44,3 +44,5 @@
 * [Lesson-20 - ООП и работа с файлами в PYTHON: принципы ООП, классы, исключения, постройка путей файлов, менеджер контекста with open(...)...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-20);
 
 * [Lesson-21 - Язык разметки Markdown: формулы, примеры оформления...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-21);
+  
+* [Lesson-22 - GitHub (отдельный репозиторий): пример оформления проекта и редактирование README.md файла...](https://github.com/AlexanderMeshchaninov/DataCleaningProjectExample);
