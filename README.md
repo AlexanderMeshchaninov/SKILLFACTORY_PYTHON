@@ -44,3 +44,7 @@
 * [Lesson-20 - ООП и работа с файлами в PYTHON: принципы ООП, классы, исключения, постройка путей файлов, менеджер контекста with open(...)...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-20);
 
 * [Lesson-21 - Язык разметки Markdown: формулы, примеры оформления...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-21);
+  
+* [Lesson-22 - GitHub (отдельный репозиторий): пример статистических методов поиска выбросов...](https://github.com/AlexanderMeshchaninov/DataCleaningProjectExample);
+
+* [Lesson-23 - GitHub (отдельный репозиторий): пример анализа резюме из Head Hunter...](https://github.com/AlexanderMeshchaninov/HeadHunter_DataScience_Project);
