@@ -52,3 +52,5 @@
 * [Lesson-24 - Выгрузка данных из файлов в разных форматах: функции - read_table(), read_excel(), загрузка по ссылке, json(), xml(), атрибуты и теги...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-24);
 
 * [Lesson-25 - Получение данных из веб источников и API, скрипты: библиотеки - requests, time, schedule, загрузка JSON(), из JSON в DataFrame...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-25);
+
+* [Lesson-26 - SQL Введение, функции, соединение таблиц, работа со строками...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-26);
