@@ -47,10 +47,12 @@
   
 * [Lesson-22 - GitHub (отдельный репозиторий): пример статистических методов поиска выбросов...](https://github.com/AlexanderMeshchaninov/DataCleaningProjectExample);
 
-* [Lesson-23 - GitHub (отдельный репозиторий): пример анализа резюме из Head Hunter...](https://github.com/AlexanderMeshchaninov/HeadHunter_DataScience_Project);
+* [Lesson-23 - GitHub (отдельный репозиторий): пример анализа резюме из Head Hunter (Проект 1)...](https://github.com/AlexanderMeshchaninov/HeadHunter_DataScience_Project);
 
 * [Lesson-24 - Выгрузка данных из файлов в разных форматах: функции - read_table(), read_excel(), загрузка по ссылке, json(), xml(), атрибуты и теги...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-24);
 
 * [Lesson-25 - Получение данных из веб источников и API, скрипты: библиотеки - requests, time, schedule, загрузка JSON(), из JSON в DataFrame...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-25);
 
 * [Lesson-26 - SQL Введение, функции, соединение таблиц, работа со строками...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-26);
+
+* [Lesson-27 - GitHub (отдельный репозиторий): пример анализа вакансий из Head Hunter (Проект 2)...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-27);
