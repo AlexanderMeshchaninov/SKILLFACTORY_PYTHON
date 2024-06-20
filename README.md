@@ -53,6 +53,6 @@
 
 * [Lesson-25 - Получение данных из веб источников и API, скрипты: библиотеки - requests, time, schedule, загрузка JSON(), из JSON в DataFrame...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-25);
 
-* [Lesson-26 - SQL Введение, функции, соединение таблиц, работа со строками...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-26);
+* [Lesson-26 - SQL Введение, функции, соединение таблиц, работа со строками, рангами dense_rank()...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-26);
 
 * [Lesson-27 - GitHub (отдельный репозиторий): пример анализа вакансий из Head Hunter (Проект 2)...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-27);
