@@ -56,3 +56,5 @@
 * [Lesson-26 - SQL Введение, функции, соединение таблиц, работа со строками, рангами dense_rank()...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-26);
 
 * [Lesson-27 - GitHub (отдельный репозиторий): пример анализа вакансий из Head Hunter (Проект 2)...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-27);
+
+* [Lesson-28 - EDA (Exploratory Data Analysis) — разведывательный анализ данных...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-28);
