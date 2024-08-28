@@ -47,7 +47,7 @@
   
 * [Lesson-22 - GitHub (отдельный репозиторий): пример статистических методов поиска выбросов...](https://github.com/AlexanderMeshchaninov/DataCleaningProjectExample);
 
-* [Lesson-23 - GitHub (отдельный репозиторий): пример анализа резюме из Head Hunter (Проект 1)...](https://github.com/AlexanderMeshchaninov/HeadHunter_DataScience_Project);
+* [Lesson-23 - GitHub (отдельный репозиторий): пример анализа резюме из Head Hunter (Проект 1)...](https://github.com/AlexanderMeshchaninov/HeadHunter_DataScience_Project_1);
 
 * [Lesson-24 - Выгрузка данных из файлов в разных форматах: функции - read_table(), read_excel(), загрузка по ссылке, json(), xml(), атрибуты и теги...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-24);
 
@@ -55,6 +55,8 @@
 
 * [Lesson-26 - SQL Введение, функции, соединение таблиц, работа со строками, рангами dense_rank()...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-26);
 
-* [Lesson-27 - GitHub (отдельный репозиторий): пример анализа вакансий из Head Hunter (Проект 2)...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-27);
+* [Lesson-27 - GitHub (отдельный репозиторий): пример анализа вакансий из Head Hunter (Проект 2)...](https://github.com/AlexanderMeshchaninov/HeadHunter_DataScience_Project_2);
 
 * [Lesson-28 - EDA (Exploratory Data Analysis) — разведывательный анализ данных...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-28);
+
+* [Lesson-29 - EDA (отдельный репозиторий): пример разведывательного анализа данных (Проект)...](https://github.com/AlexanderMeshchaninov/HR_agency_EDA_Project);
