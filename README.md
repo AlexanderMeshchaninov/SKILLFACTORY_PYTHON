@@ -60,3 +60,5 @@
 * [Lesson-28 - EDA (Exploratory Data Analysis) — разведывательный анализ данных...](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-28);
 
 * [Lesson-29 - EDA (отдельный репозиторий): пример разведывательного анализа данных (Проект)...](https://github.com/AlexanderMeshchaninov/HR_agency_EDA_Project);
+
+* [Lesson-30 - EDA (СOMET ML): пример работы с платформой COMET ML и создание логгирования для экспериментов](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-30);
