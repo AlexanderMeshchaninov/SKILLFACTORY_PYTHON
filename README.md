@@ -64,3 +64,9 @@
 * [Lesson-30 - EDA (СOMET ML): пример работы с платформой COMET ML и создание логгирования для экспериментов](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-30);
 
 * [Lesson-31 - Методология CRISP-DM, Machine Learning (ML): обучение с учителем (регрессия) - теория и практика](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-31);
+
+* [Lesson-32 - Kaggle (о платформе): Библиотека LightAutoML - автоматическое машинное обучение](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-32);
+
+* [Lesson-33 - Ассамблевые модели, случайный лес, деревья решений: обучение с учителем (классификация) - теория и практика](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-33);
+
+* [Lesson-34 - Кластеризация и ее визуализация, понижение размерности: обучение без учителя (классификация) - теория и практика](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-34);
