@@ -62,3 +62,5 @@
 * [Lesson-29 - EDA (отдельный репозиторий): пример разведывательного анализа данных (Проект)...](https://github.com/AlexanderMeshchaninov/HR_agency_EDA_Project);
 
 * [Lesson-30 - EDA (СOMET ML): пример работы с платформой COMET ML и создание логгирования для экспериментов](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-30);
+
+* [Lesson-31 - Методология CRISP-DM, Machine Learning (ML): обучение с учителем (регрессия) - теория и практика](https://github.com/AlexanderMeshchaninov/HOMEWORK_SkillFactory_PYTHON/tree/main/Lesson-31);
